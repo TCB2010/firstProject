@@ -81,3 +81,4 @@ padding: 20px;
 
 git add. 
 git comment -m "Add Html and CSS"
+git push origin master. 
