@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr"> 
 	<head>
 		<meta charset="utf-8">
-		<title>How To</title>
+		<!--title-->How To</title>
 		<link href="./resources/css/style.css" rel="stylesheet" type="text/css"/>
 	</head> 
 	<body>
@@ -52,7 +52,7 @@
 <html>
 <head>
 <style> 
-* {
+<!--* {
 background-color: #10288C;
 }
 
@@ -77,4 +77,4 @@ background-color: #274DEA;
 color: #39BCDB;
 text-decoration: none;
 padding: 20px;
-}****
+}****-->
