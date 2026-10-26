@@ -77,6 +77,11 @@ background-color: #274DEA;
 color: #39BCDB;
 text-decoration: none;
 padding: 20px;
+
+padding-top: 10px
+padding-bottom: 10px
+Padding-right: 10px
+padding-left: 10px
 }****-->
 
 git add. 
